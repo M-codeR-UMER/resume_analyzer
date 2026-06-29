@@ -1,0 +1,20 @@
+Python Backend Engineer
+
+We are looking for a Python backend engineer with 3+ years of experience.
+
+Required skills:
+- Python
+- FastAPI
+- SQL
+- PostgreSQL
+- Docker
+
+Preferred skills:
+- AWS
+- Streamlit
+- Redis
+
+Responsibilities:
+- Build and maintain APIs.
+- Work with structured data and asynchronous background processing.
+- Ship reliable backend features with strong documentation.

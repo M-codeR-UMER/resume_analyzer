@@ -1,0 +1,11 @@
+Jane Doe
+jane.doe@example.com
++1 555 010 1000
+
+Senior Python Backend Engineer with 5 years of experience building APIs using FastAPI, SQL, PostgreSQL, Docker, and AWS.
+
+Skills: Python, FastAPI, SQL, PostgreSQL, Docker, AWS, Git, REST APIs, Streamlit
+
+Experience:
+- Built backend services and data pipelines for production systems.
+- Collaborated with product teams and deployed services on cloud infrastructure.
